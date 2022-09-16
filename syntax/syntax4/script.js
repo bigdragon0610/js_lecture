@@ -2,7 +2,7 @@
 console.log("---配列---");
 {
   const colors = ["red", "blue", "green", "yellow"];
-  // console.log(colors[1]); // ?
+  //   console.log(colors[1]); // ?
 }
 
 // 配列の繰り返し①
@@ -17,7 +17,7 @@ console.log("---配列の繰り返し①---");
     【問題】
     配列「days」を用いて、
 
-    月: Sun
+    月: Mon
     火: Tue
     水: Wed
     木: Thu
