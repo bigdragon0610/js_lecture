@@ -18,9 +18,8 @@ console.log("---文字の足し算---");
 console.log("---数字と文字の足し算---");
 {
   const num = 10;
-  const str = 20;
-  // console.log(num + str); // ?
-  // console.log(num + String(str)); // ?
+  const str = "20";
+  //   console.log(num + str); // ?
 }
 
 // 【発展】テンプレートリテラル
