@@ -1,0 +1,16 @@
+.blue {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  padding: 2px;
+  width: 500px;
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
