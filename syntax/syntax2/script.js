@@ -20,13 +20,14 @@ console.log("---数字と文字の足し算---");
   const num = 10;
   const str = "20";
   //   console.log(num + str); // ?
+  //   console.log(num + Number(str)); // ?
 }
 
 // 【発展】テンプレートリテラル
 console.log("---【発展】テンプレートリテラル---");
 {
   const num = 10;
-  const str = 20;
+  const str = "20";
   console.log("数字:" + num + "、 文字:" + str); // 普通の結合方法
-  // console.log(`数字:${num}、文字:${str}`); // ?
+  //   console.log(`数字:${num}、文字:${str}`); // ?
 }
